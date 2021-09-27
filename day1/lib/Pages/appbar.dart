@@ -24,7 +24,7 @@ class _appbarState extends State<appbar> {
         ),
         body: Center(
           child: Container(
-            child: Text("Welcome ${name} ${day} of flutter"),
+           child: Text("Welcome ${name} ${day} of flutter"),
           )
         ),
         drawer: Drawer(),
